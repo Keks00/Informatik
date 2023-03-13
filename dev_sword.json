@@ -1,0 +1,16 @@
+{
+    "$dagger": {
+      "data": {
+        "id": 99991,
+        "damage_mult": 10,
+        "critchance": 10,
+        "critdamage": 10,
+        "hitchance":10,
+        "enemy_hitchance":10,
+        "level": null,
+        "pickup_time": 0,
+        "effect": null,
+        "aim" :  false
+      }
+    }
+  }
